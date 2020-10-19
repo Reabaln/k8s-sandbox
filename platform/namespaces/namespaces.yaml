@@ -50,9 +50,9 @@ metadata:
   name: dev
 ---
 apiVersion: v1
-kind: test
+kind: Namespace
 metadata:
-  name: monitoring
+  name: test
 ---
 apiVersion: v1
 kind: Namespace
